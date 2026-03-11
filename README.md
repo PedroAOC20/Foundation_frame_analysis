@@ -45,7 +45,7 @@ Ao final de qualquer análise, é possível exportar um **relatório PDF complet
 # 🗂️ Estrutura do Projeto
 
 ```
-imdb-dashboard/
+Foundation_frames_analysis/
 │
 ├── app.py                        ← Ponto de entrada do Streamlit
 │
